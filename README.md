@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="/3E437F1C6B2FD8E54ACA429E7FDBE63D.gif" alt="Metrics" style="display: block; margin: 0 auto; width: 50%; height: 50%;" />
+  <img src="./20220911220922_92d7b.gif" alt="Metrics" style="display: block; margin: 0 auto; width: 50%; height: 50%;" />
   <h2>💪 Skill </h2>
   <div>From knowing only frontend to building a full-stack AI engine from scratch.</div>
   <a href="https://skillicons.dev">
